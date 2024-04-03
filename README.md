@@ -41,7 +41,4 @@ We have adopted a Code of Conduct to ensure a welcoming and inclusive environmen
 
 This project is licensed under the [Apache License 2.0](LICENSE). By contributing to this project, you agree to abide by the terms of this license.
 
-## Contact
-
-If you have any questions, suggestions, or feedback, feel free to reach out to us at [contact@example.com](mailto:contact@example.com).
 
